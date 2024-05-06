@@ -1,4 +1,4 @@
-void configureAllSensors()
+void configureAllSensors() 
 {
 	SensorType[S1] = sensorEV3_Touch;
 	SensorType[S2] = sensorEV3_Ultrasonic;
