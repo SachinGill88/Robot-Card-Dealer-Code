@@ -15,7 +15,3 @@
 6. **remainder_dispense**(int players, int cards): Handles the dispensing of remaining cards if the total number of cards does not evenly divide among players. This function ensures fair distribution and efficient use of available cards.
 
 7. **exit_code**(int players, float distance, int remainder): Robot determines how to cleanly escape the playing area, without contacting any of the piles of cards.
-
-   
-Link for Robot Functioning:
-https://youtu.be/oh9fxS5TRLo
